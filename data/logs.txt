@@ -1,0 +1,70 @@
+This is a log of a usual Pixelparty game:
+
+Msg: Couldn't connect you to that server, so you were put in the Prototype lobby!
+Msg:
+Title sent: {"text":""}
+Title sent: {"text":""}
+Msg:
+Bot spawned
+Prismarine viewer web server running on *:3003
+Msg: You have 1 unclaimed leveling reward!
+Msg: Click here to view it!
+Msg: [MVP+] Black_Kay joined the lobby!
+Msg: [MVP+] benzo14 joined the lobby!
+Msg: [MVP+] VTEC9988 joined the lobby!
+Msg: [MVP+] stone1525 joined the lobby!
+Joining pixel party
+Msg: Sending you to mini716J!
+Msg:
+Msg: NotoBot has joined (10/16)!
+Msg: TechnoTheBlodGod has quit!
+Msg: oael has joined (10/16)!
+Msg: Chillingpig3883 has joined (11/16)!
+Msg: RCDJ2016 has joined (12/16)!
+Msg: BeeDuo__ has joined (13/16)!
+Msg: Nate_the_gamer has joined (14/16)!
+Msg: Ash_n_Fire has joined (15/16)!
+Msg: The game starts in 30 seconds!
+Msg: Nick01as has quit!
+Msg: SkylerSuzuki has joined (15/16)!
+Msg: The game starts in 20 seconds!
+Msg: The game starts in 10 seconds!
+Msg: The game starts in 5 seconds!
+Msg: The game starts in 4 seconds!
+Msg: The game starts in 3 seconds!
+Msg: Nate_the_gamer: glhf
+Msg: The game starts in 2 seconds!
+Msg: The game starts in 1 second!
+Msg: ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Msg: 
+Msg:                                 Pixel Party
+Msg:
+Msg:         Stand on the correct color or fall to your
+Msg:             death! Rounds get faster as the game
+Msg:                                progresses!
+Msg:
+Msg: ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Msg: Waiting...
+ActionBar: Waiting...
+Msg: ▂▃▄▅▆▇ BLUE ▇▆▅▄▃▂
+ActionBar: ▂▃▄▅▆▇ BLUE ▇▆▅▄▃▂
+Msg: ▃▄▅▆▇ BLUE ▇▆▅▄▃
+ActionBar: ▃▄▅▆▇ BLUE ▇▆▅▄▃
+Msg: ▄▅▆▇ BLUE ▇▆▅▄
+ActionBar: ▄▅▆▇ BLUE ▇▆▅▄
+Msg: ▅▆▇ BLUE ▇▆▅
+ActionBar: ▅▆▇ BLUE ▇▆▅
+Msg: ▆▇ BLUE ▇▆
+ActionBar: ▆▇ BLUE ▇▆
+Msg: ▇ BLUE ▇
+ActionBar: ▇ BLUE ▇
+Msg: ✖ FREEZE ✖
+ActionBar: ✖ FREEZE ✖
+Msg: ✖ Ash_n_Fire fell to their death!
+Msg: ✖ Shadow63fr_ fell to their death!
+Msg: ✖ MasterCont fell to their death!
+Title sent: {"text":"§cYOU DIED!"}
+Title sent: {"text":"§fYou are now a spectator!"}
+Msg: ✖ NotoBot fell to their death!
+Msg: Waiting...
+ActionBar: Waiting...
